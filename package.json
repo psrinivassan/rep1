@@ -25,7 +25,7 @@
     "express-session": "~1.10.4",
     "facebook-ads-sdk": "^2.7.2",
     "jade": "~1.8.2",
-    "moment": "~2.10.6",
+    "moment": ">=2.29.2",
     "mongodb": "~2.0.46",
     "mongoose": ">=4.13.21",
     "mssql": "~3.1.2",
